@@ -1,0 +1,159 @@
+{
+  "basics": {
+    "name": "Miguel Almeida",
+    "label": "Software Developer",
+    "picture": "images/profile-picture.jpg",
+    "email": "miguelalmeida845@gmail.com",
+    "phone": "+351 917 798 702",
+    "website": "",
+    "summary": "I'm a young folk interested in discovering how things work and finding problem's solutions. Thriving to develop my software skills is my practical way of doing this. I value working on a team that helps me constantly learning.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Porto",
+      "countryCode": "PT",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "Linkedin",
+        "username": "migalmeida30",
+        "url": "www.linkedin.com/in/migalmeida30/"
+      },
+      {
+        "network": "Github",
+        "username": "migalmeida",
+        "url": "https://github.com/migalmeida"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Blip.pt - Paddy Power Betfair",
+      "position": "Frontend Developer - Graduate",
+      "website": "www.blip.pt",
+      "startDate": "October 2016",
+      "endDate": "",
+      "summary": "Work on the new Paddy Power mobile and desktop single-page applications. Day to day contact with Angular 1.6, ECMAScript 6, HTML, CSS and Webpack for client-side application as well as Node.js for server-side aggregations.",
+      "highlights": []
+    },
+    {
+      "company": "Continental Mabor, Indústria de Pneus, S.A.",
+      "position": "Master Thesis",
+      "website": "",
+      "startDate": "February 2016 ",
+      "endDate": "June 2016",
+      "summary": "Developed a web application for bulk raw material storage monitoring, using Ruby on Rails framework. Data acquisition was developed in Python, using OPC protocol.",
+      "highlights": []
+    },
+    {
+      "company": "Pizza Hut",
+      "position": "Call Center Representative",
+      "website": "",
+      "startDate": "July 2011",
+      "endDate": "January 2015",
+      "summary": "Part-time where my role included order registration, complaints resolution and work shifts coordination.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Faculdade de Engenharia da Universidade do Porto",
+      "area": "Electrical and Computer Engineering",
+      "studyType": "Integrated Master's degree - 15/20",
+      "startDate": "September 2011",
+      "endDate": "July 2016",
+      "gpa": "",
+      "courses": [
+        "Major in Telecommunications, Electronics and Computers",
+        "Minor in Communication Networks and Services",
+        "Complementary in Operations and Logistics"
+      ]
+    },
+    {
+      "institution": "Universidade do Estado do Rio de Janeiro",
+      "area": "",
+      "studyType": "Semester abroad",
+      "startDate": "February 2015",
+      "endDate": "July 2015",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master aspirer",
+      "keywords": [
+        "AngularJS",
+        "Node.js",
+        "HTML",
+        "CSS",
+        "Webpack",
+        "React",
+        "Ruby on Rails"
+      ]
+    },
+    {
+      "name": "Languages",
+      "level": "Master aspirer",
+      "keywords": [
+        "Javascript",
+        "Ruby",
+        "C",
+        "Java",
+        "Python",
+        "SQL",
+        "Objective C"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Portuguese",
+      "fluency": "Native Speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent speaker and writer"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Medium speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Piano",
+      "keywords": []
+    },
+    {
+      "name": "Guitar",
+      "keywords": []
+    },
+    {
+      "name": "Books",
+      "keywords": []
+    },
+    {
+      "name": "Lean thinking",
+      "keywords": []
+    },
+    {
+      "name": "Running",
+      "keywords": []
+    },
+    {
+      "name": "Surf",
+      "keywords": []
+    },
+    {
+      "name": "Travel",
+      "keywords": []
+    }
+  ],
+  "references": []
+}
