@@ -1,0 +1,18 @@
+{
+  "name": "miguel-almeida-resume",
+  "version": "0.0.0",
+  "description": "Miguel Almeida Resume",
+  "scripts": {
+    "build": "resume export index.html --theme slick"
+  },
+  "author": "Miguel Almeida",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/migalmeida/migalmeida.github.io.git"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "jsonresume-theme-slick": "^0.1.16",
+    "resume-cli": "^0.4.19"
+  }
+}
