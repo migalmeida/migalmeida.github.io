@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "Miguel Almeida Resume",
   "scripts": {
-    "build": "resume export index.html --theme slick"
+    "build": "resume export index.html --theme slick && replace 'http:' 'https:' index.html"
   },
   "author": "Miguel Almeida",
   "repository": {
@@ -13,6 +13,7 @@
   "license": "ISC",
   "devDependencies": {
     "jsonresume-theme-slick": "^0.1.16",
+    "replace": "^0.3.0",
     "resume-cli": "^0.4.19"
   }
 }
