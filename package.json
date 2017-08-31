@@ -1,6 +1,6 @@
 {
   "name": "miguel-almeida-resume",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Miguel Almeida Resume",
   "scripts": {
     "build": "resume export index.html --theme slick && replace 'http:' 'https:' index.html"
